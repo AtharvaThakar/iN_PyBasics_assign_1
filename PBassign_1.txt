@@ -1,0 +1,66 @@
+Q1
+* - expression 
+'hello' - value
+-87.8 - value
+- - expression 
+/ - expression
++ - expression
+6 - value
+
+Q2
+Difference between String and Variable 
+Variable is an alphanumeric word which can store values as integer, alphabets etc.
+
+String is a collection of words which can be stored in variables.
+
+x1 = 'iNeuron'
+
+x1 is a variable 
+iNeuron is a string 
+
+Q3
+numeric type - integer, float, complex
+text type - string
+boolean type - bool 
+
+Sequence type - this type contains list, range and tuple
+This type contains multiple values of data in sequential manner.
+List can have multiple elements and can be modified that is they are mutable.
+Range type only contains numerical values, these give series of numbers with specified intervals.
+Tuple is able to store multiple values in a single variable and these are immutable.
+
+Mapping type - it has dict(dictionary) type 
+In dictionary the values are stored in pairs like ( key : value ), duplicate values cannot be stored.
+The value is accessed through the key. 
+
+Set type - it has set type and frozenset type
+Set is collection of items in a single variable which stores unique values.
+Set elements are unchangeable but items can be removed or added.
+
+Q4 
+Expressions - are sequence of operators and operands which give output in boolean or 
+integer form.
+
+Q5 
+Expressions have operators and numeric values which give output, whereas statement can or 
+cannot give output 
+
+Q6 
+bacon will be 23.
+
+Q7 
+Output for both is 'spamspamspam'
+
+Q8 
+Variable can be alphanumeric with starting letter as string or underscore.
+_100 can be a variable.
+
+Q9 
+x = '9'
+To get integer of x, we'll use int(), like int(x) and we'll get integer value of 9.
+For floating point number, function is float(), float(x) will be 9.0.
+Similarly for string, str() is used.
+
+Q10 
+The concatenation is only allowed for strings. Here 99 is integer. 
+The correct expression should be 'I have eaten' + '99' + 'burritos.
